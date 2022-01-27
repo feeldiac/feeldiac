@@ -1,16 +1,12 @@
-### Hi there 👋
+# Fernando Díaz  
+[![Twitter Badge](https://img.shields.io/badge/-@feeldiac-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/feeldiac)](https://twitter.com/feeldiac) [![Linkedin Badge](https://img.shields.io/badge/-feeldiac1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/feeldiac1/)](https://www.linkedin.com/in/feeldiac1/)
+[![Gmail Badge](https://img.shields.io/badge/-feeldiac@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feeldiac@gmail.com)](mailto:feeldiac@gmail.com)
 
-<!--
-**feeldiac/feeldiac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there!👋, 
+I'm Fernando (people also call me Fercho o Eli), I'm a chemical engineer, currently changing my career into software development.👀 I'm mainly focus on frontend technologies but hoping to become a fullstack web developer later on. I'm passionate about science🔬, startups🚀, fitness🏋️‍♂️ and poetry.📝
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Frontend Development.
+- 🌱 I’m currently learning JavaScript and React.
+- 💬 Ask me about whatever. I'd to debate.
+- 😄 Pronouns: he/him.
+-  ⚡ Languages: JavaScript, Java, Python3. 
