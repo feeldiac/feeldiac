@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-feeldiac@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:feeldiac@gmail.com)](mailto:feeldiac@gmail.com)
 
 ## Hi there!👋 
-I'm Fernando (people also call me Fercho or Eli), I'm a chemical engineer, currently changing my career into software development.👀 I'm mainly focus on frontend technologies but hoping to become a fullstack web developer later on. I'm passionate about science🔬, startups🚀, fitness🏋️‍♂️ and poetry.📝
+I'm Fernando (people also call me Fercho or Eli), I'm a chemical engineer, currently changing my career into software development.👀 I'm mainly focus on frontend technologies but hoping to become a fullstack web developer later on. I'm passionate about science🔬, startups🚀, fitness🏋️‍♂️ and poetry📝. I'm a Certified Tech Developer Student at Digital House and also a Platzi Student.
 
 - 🔭 I’m currently working on Frontend Development.
 - 🌱 I’m currently learning JavaScript and React.
